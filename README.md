@@ -22,7 +22,7 @@ We use [GitHub](https://github.com)
 
 ## Authors
 
-* Manuel Monforte  [@manumonforte](https://github.com/PurpleBooth)
+* Manuel Monforte  [@manumonforte](https://github.com/manumonforte)
 
 ## License
 
